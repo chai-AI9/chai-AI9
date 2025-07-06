@@ -16,7 +16,6 @@ A personal data science series exploring:
 ### 💼 Professional Snapshot  
 - 💻 Working at Bosch Global Software Technologies  
 - 🧠 Exploring Spiking Neural Networks, Cognitive AI & Urban Analytics  
-- 🤖 Skilled in Python, Pandas, PyTorch, TensorFlow, Hugging Face  
 - ➕ Deeply passionate about mathematics- the language of all Intelligent systems
 ---
 
