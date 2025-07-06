@@ -11,6 +11,25 @@ A personal data science series exploring:
 - 🚌 Bus connectivity for job seekers  
 - 🌧️ Rain’s effect on commute, delivery, and lifestyle
 
+  ---
+
+## 🚀 Featured Project
+
+### 🌱 [The Living Map: Green Coverage in Bengaluru](https://github.com/chai-AI9/The-Living-Map-Bengaluru)
+A geospatial data science project mapping green zones across Bengaluru using BBMP ward boundaries.  
+> 🧭 Built with GeoPandas, Folium, and civic open data to explore urban sustainability.
+
+---
+
+## 🧠 Project Interests
+
+- 🌫️ AQI prediction for Indian cities  
+- 💬 Emotion detection from text  
+- 🧏 Sign language recognition with AI  
+- 🌿 Smart buildings: water/energy usage forecasting  
+- 🧠 HR analytics: employee attrition prediction  
+- 💳 Fraud detection in financial transactions
+
 ---
 
 ### 💼 Professional Snapshot  
