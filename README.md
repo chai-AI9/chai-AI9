@@ -17,8 +17,33 @@ A personal data science series exploring:
 - 💻 Working at Bosch Global Software Technologies  
 - 🧠 Exploring Spiking Neural Networks, Cognitive AI & Urban Analytics  
 - 🤖 Skilled in Python, Pandas, PyTorch, TensorFlow, Hugging Face  
-
+- ➕ Deeply passionate about mathematics- the language of all Intelligent systems
 ---
+
+### 🧰 Skills & Tools
+
+**Languages & Frameworks**  
+- Python, Java (basics), SQL (basics)  
+- PyTorch, TensorFlow, Keras, Hugging Face Transformers  
+- scikit-learn, pandas, NumPy, matplotlib, seaborn, OpenCV  
+
+**Data & AI Techniques**  
+- Data Cleaning & Preprocessing  
+- Machine Learning & Deep Learning  
+- NLP (Text Classification, Sentiment Analysis, Transformers)  
+- Reinforcement Learning (Q-Learning, Policy Gradients – beginner level)  
+- Model Evaluation (Confusion Matrix, ROC, F1 Score), Hyperparameter Tuning  
+- Time Series Analysis, Clustering, Recommendation Systems    
+
+**Tools & Platforms**  
+- Jupyter Notebook, Google Colab  
+- Git & GitHub, VS Code  
+- ServiceNow, SMT, IDM tools (from Bosch IT support experience)  
+
+**Soft Skills**  
+- Problem-Solving, Analytical Thinking, Empathy-driven Communication  
+- Agile Team Collaboration, Technical Writing, Documentation  
+
 
 ### 📫 Connect with Me  
 - 🔗 [LinkedIn](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fchaithra-jelkara&data=05%7C02%7Cj.chaithra%40in.bosch.com%7C8b2fa4ee2fea49ffac5d08ddbc9b05ea%7C0ae51e1907c84e4bbb6d648ee58410f4%7C0%7C0%7C638874096187107966%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=4aQRnW0WEjZh3vhOhPioV4GsXzNnomYsrNBQDiQzbSE%3D&reserved=0)  
