@@ -5,11 +5,11 @@
 
 ---
 
-### 🔭 Current Project: The Living Map of Bengaluru 🌆  
-A personal data science series exploring:
-- 🌳 Green cover & tree density  
-- 🚌 Bus connectivity for job seekers  
-- 🌧️ Rain’s effect on commute, delivery, and lifestyle
+## 🪶 Featured Lab
+
+🌸 [chAI: A Poetic, Ethical AI Lab](https://github.com/chai-AI9/chAI)  
+Emotion, ethics, and poetry — built through compassionate machine learning.
+
 
   ---
 
