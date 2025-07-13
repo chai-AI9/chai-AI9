@@ -1,4 +1,4 @@
-# 🌼 Hi, I'm Chai — seeker of compassionate AI.
+#  Hi, I'm Chai — seeker of compassionate AI.
 
 Welcome to my space. I believe technology should listen, reflect, and heal — not just compute.
 
