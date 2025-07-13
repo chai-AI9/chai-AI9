@@ -68,4 +68,9 @@ What if technology could help us be more human, not less?”*
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chaithra-jelkara)
 - 📧 cjelkara@outlook.com
-- 📄 Resume – https://github.com/chai-AI9/chai-AI9/blob/main/Chaithra_j_resume.pdf
+
+---
+
+## 📄 Resume 
+
+https://github.com/chai-AI9/chai-AI9/blob/main/Chaithra_j_resume.pdf
