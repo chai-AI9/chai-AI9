@@ -16,7 +16,7 @@ I'm a self-taught, emotionally-driven AI/ML practitioner with a background in IT
 - Empathetic response agents  
 - Human-centered city ML
 
-🕊 Visit: [https://chai-AI9.github.io/chAI](https://chai-AI9.github.io/chAI) *(GitHub Pages)*
+🕊 Visit: [chai-AI9.github.io/chAI](https://chai-AI9.github.io/chAI) *(GitHub Pages)*
 
 ---
 
@@ -42,9 +42,10 @@ I'm a self-taught, emotionally-driven AI/ML practitioner with a background in IT
 ## 👩🏻‍💻 Current Role
 
 **IT Process Consultant @ Bosch Global Software Technologies**  
-- Part of PESOS (Personal Service Offshore Support)  
-- Automation Tribe: researching how Agentic AI can improve IT ticket resolution  
-- Proposed and prototyped internal transparency tools
+- Supporting global IT operations through process automation and service optimization  
+- Member of the internal Automation team exploring AI use cases in ticket resolution  
+- Actively prototyping tools to improve inter-team collaboration, transparency, and knowledge flow  
+- Balancing business continuity with a heart for ethical, human-centered technology
 
 ---
 
@@ -61,8 +62,9 @@ Not to impress.
 But to ask:  
 What if technology could help us be more human, not less?”*
 
+---
 
-📫 Connect with Me
+## 📫 Connect with Me
 
-🔗 LinkedIn
-📄 Resume – Coming Soon
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here)  
+- 📄 Resume – Coming Soon
